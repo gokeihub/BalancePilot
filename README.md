@@ -23,20 +23,6 @@ The images above provide a snapshot of the **Home Screen** (left), the **Filter 
 
 ---
 
-## 🔗 Links & Badges
-
-| Badge | Description |
-| :--- | :--- |
-| ![Latest Release](https://img.shields.io/github/v/release/gokeihub/BalancePilot?style=for-the-badge&logo=github) | Latest Release Version |
-| ![Total Downloads](https://img.shields.io/github/downloads/gokeihub/BalancePilot/total?color=blue&label=Total%20Downloads&style=for-the-badge) | Total Downloads Count |
-| ![License](https://img.shields.io/github/license/gokeihub/BalancePilot?style=for-the-badge) | Licensing Information |
-| ![GitHub Stars](https://img.shields.io/github/stars/gokeihub/BalancePilot?style=for-the-badge&logo=github) | Total GitHub Stars |
-| ![GitHub Forks](https://img.shields.io/github/forks/gokeihub/BalancePilot?style=for-the-badge&logo=github) | Total GitHub Forks |
-| ![Open Issues](https://img.shields.io/github/issues/gokeihub/BalancePilot?style=for-the-badge&logo=github) | Open Issues Count |
-| ![Last Commit](https://img.shields.io/github/last-commit/gokeihub/BalancePilot?style=for-the-badge&logo=github) | Date of Last Commit |
-| ![Contributors](https://img.shields.io/github/contributors/gokeihub/BalancePilot?style=for-the-badge) | Total Contributors |
-
-
 ## 🌟 Features
 
 With BalancePilot, you can:
