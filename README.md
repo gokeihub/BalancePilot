@@ -4,9 +4,42 @@ A powerful and visually appealing **balance tracking application** built with **
 
 ## ✨ Key Highlights
 
-* **📈 Comprehensive Financial Visualization**
-* **🌙 Dark Mode Support**
-* **🔒 Local Data Persistence**
+## 1. Daily Expense Tracking  
+Track everyday spending with categories.
+
+## 2. Income Tracking  
+Record all income sources.
+
+## 3. Category-Based Organization  
+Organize expenses into Food, Transport, Shopping, etc.
+
+## 4. Budget Alerts (Added ✔)  
+- Intelligent alerts at 50%, 80%, and 100%  
+- Push notifications + in-app warnings  
+- Color indicators (Green → Yellow → Red)  
+- Optional Silent Mode  
+- Budget suggestions
+
+## 5. Multi-Currency Support (Manual Mode) (Added ✔)  
+- Choose any currency (BDT, USD, EUR, GBP, etc.)  
+- User manually sets exchange rate  
+- Stored locally, no API required  
+- Auto recalculation when rate changes  
+- Currency formatting + symbol support  
+- Option to lock exchange rate  
+- Works offline
+
+## 6. Report Download (Added ✔)  
+- Download Monthly/Yearly PDF  
+- Export CSV  
+- Clean table + graph included  
+- Offline export support
+
+## 7. Charts & Analytics  
+Pie chart, bar chart, spending graph.
+
+## 8. Recurring Expenses  
+Auto-repeat monthly expenses.
 
 ---
 
